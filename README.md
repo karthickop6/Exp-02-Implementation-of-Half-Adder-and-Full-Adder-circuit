@@ -54,6 +54,8 @@ RegisterNumber:  22000995
 Logic symbol & Truthtable
 RTL realization
 
+![image](./https://github.com/karthickop6/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/rtlrealization.png)
+
 
 ### Output:
 ### RTL

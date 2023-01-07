@@ -50,19 +50,32 @@ Developed by: karthick P
 
 RegisterNumber:  22000995
 
-
+#OUTPUT:
 Logic symbol & Truthtable
 RTL realization
 
-![image](./https://github.com/karthickop6/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/rtlrealization.png)
+![image](./rtlrealization.png)
 
 
-### Output:
-### RTL
+
 ### TIMING DIAGRAM
+![image](./timi1.png)
 
 
 ### TRUTH TABLE 
+![image](./truth.png)
+
+
+#RTL realization:
+![image](./rte2.png)
+
+#TIMING DIAGRAM:
+![IMAGE](./TIMI2.png)
+
+
+
+#TRUTH TABLE
+![image](./last.png)
 
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using
